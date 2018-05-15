@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is an example of a text file edited in the my_branch branch. 
+=======
+This is the same file created and edted in the master branch. 
+>>>>>>> origin/master
